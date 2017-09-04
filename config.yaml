@@ -1,0 +1,9 @@
+title: "fREW Schmidt's covfefe blog"
+author:
+  name: "Arthur Axel fREW Schmidt"
+  twitter: frioux
+indexes:
+  tag: 'tags'
+baseurl: 'https://frioux.github.io/clog'
+canonifyurls: false
+paginate: 50

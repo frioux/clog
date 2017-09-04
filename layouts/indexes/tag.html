@@ -1,0 +1,13 @@
+{{ template "chrome/header.html" . }}
+
+<link href="index.xml" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} - {{ .Title }}" />
+<section id="main">
+  <div>
+   <h1 id="title">{{ .Title }}</h1>
+    <ul>{{ range .Data.Pages }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> - {{ .Date.Format "Mon, Jan 2, 2006" }}</li>
+    {{ end }}</ul>
+  </div>
+</section>
+
+{{ template "chrome/footer.html" }}
