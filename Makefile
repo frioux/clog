@@ -12,7 +12,7 @@ build: clean
 	hugo
 
 commit: build
-	cd public && git add -Af . && git ci -m 'derp'
+	cd public && git add -Af . && git ci -m 'derp' || true
 
 push: commit | public
 	git push
