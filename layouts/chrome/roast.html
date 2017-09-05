@@ -1,6 +1,7 @@
 <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
 Roast Date: <strong>{{ .Date.Format "2 Jan 2006" }}</strong><br />
+{{ if isset .Params "roast_level" }}Roast Level: <strong>{{ .Params.roast_level }}</strong><br />{{ end }}
 Duration: <strong>{{ .Params.total_roast }}</strong><br />
 {{ if isset .Params "first_crack" }}First Crack @ <strong>{{ .Params.first_crack }}</strong><br />{{ end }}
-Rating: {{ .Params.rating }}<br />
-{{ .Params.start_weight}}lb → {{ .Params.end_weight}}lb; {{ .Params.weight_loss }} Weight Loss
+{{ if isset .Params "rating" }}Rating: {{ .Params.rating }}<br />{{ end }}
+{{ if isset .Params "start_weight" }}{{ .Params.start_weight}}lb → {{ .Params.end_weight}}lb; {{ .Params.weight_loss }} Weight Loss{{ end}}
