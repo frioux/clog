@@ -1,4 +1,4 @@
-<h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+<h1><a href="{{ .RelPermalink }}">{{ .Date.Format "2006-01-02" }} — {{ .Title }}</a></h1>
 Roast Date: <strong>{{ .Date.Format "2 Jan 2006" }}</strong><br />
 {{ if isset .Params "roast_level" }}Roast Level: <strong>{{ .Params.roast_level }}</strong><br />{{ end }}
 Duration: <strong>{{ .Params.total_roast }}</strong><br />
