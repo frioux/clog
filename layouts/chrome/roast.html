@@ -4,4 +4,4 @@ Roast Date: <strong>{{ .Date.Format "2 Jan 2006" }}</strong><br />
 Duration: <strong>{{ .Params.total_roast }}</strong><br />
 {{ if isset .Params "first_crack" }}First Crack @ <strong>{{ .Params.first_crack }}</strong><br />{{ end }}
 {{ if isset .Params "rating" }}Rating: {{ .Params.rating }}<br />{{ end }}
-{{ if isset .Params "start_weight" }}{{ .Params.start_weight}}lb → {{ .Params.end_weight}}lb; {{ .Params.weight_loss }} Weight Loss{{ end}}
+{{ if isset .Params "start_weight" }}{{ .Params.start_weight}}lb → {{ .Params.end_weight}}lb; {{ .Params.weight_loss }}% Weight Loss{{ end}}
