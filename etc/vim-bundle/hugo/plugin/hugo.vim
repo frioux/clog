@@ -30,10 +30,9 @@ function! Link(domain, copy)
   endif
   echom path
 endfunction
-command! -bang Link      call Link('https://blog.afoolishmanifesto.com', <bang>0)
-command! -bang LinkShort call Link('http://frew.co',                     <bang>0)
-command! -bang LinkLocal call Link('http://127.0.0.1:1313',              <bang>0)
-command! -bang LinkRel   call Link(''                     ,              <bang>0)
+command! -bang Link      call Link('https://frioux.github.io/clog', <bang>0)
+command! -bang LinkLocal call Link('http://127.0.0.1:1313',         <bang>0)
+command! -bang LinkRel   call Link(''                     ,         <bang>0)
 
 function! CompleteTags(findstart, base)
   if a:findstart
