@@ -52,10 +52,19 @@ function! CompleteTags(findstart, base)
   endif
 endfun
 
+
+function! ExpandTemplate()
+   if getline(1) == 'TPLTPLTPL'
+      :%s/\~\~CURDATE\~\~/\=systemlist("date +%FT%T%z")[0]/ge
+      :%s/\~\~GUID\~\~/\=systemlist("perl -MData::GUID=guid_string -E'say guid_string()'")[0]/ge
+      1g/TPLTPLTPL/d
+   endif
+endfunction
+
 augroup hugo
    autocmd!
 
-   au FileType markdown execute 'setlocal omnifunc=CompleteTags'
+   au FileType markdown execute 'setlocal omnifunc=CompleteTags | iabbrev cupp Aroma Comments:<return><return>Acidity:<return><return>Sweetness:<return><return>Mouthfeel:<return><return>Flavor:<return><return>Finish:<return><return>Balance:'
    au BufReadPost quickfix setlocal nowrap
 
    au BufReadPost quickfix
@@ -64,6 +73,7 @@ augroup hugo
        \ silent exe ':%s/\v^([^|]+\|){2}\s*//g' |
        \ setl nomodifiable |
      \ endif
+   au BufReadPost * call ExpandTemplate()
 augroup END
 
 nnoremap g<C-]> :TaggedWord<CR>
