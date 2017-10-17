@@ -8,10 +8,15 @@
          "date: ~~CURDATE~~",
          "tags: ",
          "guid: ~~GUID~~",
+         "total_roast:",
+         "first_crack:",
+         "start_weight: 1.2",
+         "end_weight: 0",
+         "rating: 0",
+         "weight_loss: 0",
          "---",
          "",
-         "",
-         "<!--more-->"
+         "## Sweet Maria's"
       ]
    }
 }
