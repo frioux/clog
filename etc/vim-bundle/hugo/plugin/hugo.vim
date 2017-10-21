@@ -54,8 +54,8 @@ endfun
 
 
 function! ExpandTemplate()
-   :%s/\~\~CURDATE\~\~/\=systemlist("date +%FT%T")[0]/ge
-   :%s/\~\~GUID\~\~/\=systemlist("uuidgen")[0]/ge
+   %s/\~\~CURDATE\~\~/\=strftime("%FT%T")
+   %s/\~\~GUID\~\~/\=systemlist("uuidgen")[0]/ge
 endfunction
 
 augroup hugo
@@ -70,7 +70,7 @@ augroup hugo
        \ silent exe ':%s/\v^([^|]+\|){2}\s*//g' |
        \ setl nomodifiable |
      \ endif
-   au User ProjectionistApplyTemplate * call ExpandTemplate()
+   au User ProjectionistApplyTemplate call ExpandTemplate()
 augroup END
 
 nnoremap g<C-]> :TaggedWord<CR>
