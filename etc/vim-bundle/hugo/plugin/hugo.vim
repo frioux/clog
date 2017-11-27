@@ -52,6 +52,7 @@ function! CompleteTags(findstart, base)
   endif
 endfun
 
+command! Roast :exec 'Epost ' . strftime("%F")
 
 function! ExpandTemplate()
    %s/\~\~CURDATE\~\~/\=strftime("%FT%T")
