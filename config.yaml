@@ -7,3 +7,12 @@ indexes:
 baseurl: 'https://frioux.github.io/clog'
 canonifyurls: false
 paginate: 50
+q:
+  post-facets:
+    - roast_level
+    - total_roast
+    - first_crack
+    - rating
+    - start_weight
+    - end_weight
+    - weight_loss
