@@ -5,7 +5,7 @@
   <div>
    <h1 id="title">{{ .Title }}</h1>
     <ul>{{ range .Data.Pages }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a> - {{ .Date.Format "Mon, Jan 2, 2006" }}</li>
+       {{ template "chrome/roast.html" . }}
     {{ end }}</ul>
   </div>
 </section>
