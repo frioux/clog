@@ -6,16 +6,17 @@
     <description>Recent content in Tags on fREW Schmidt&#39;s Clog (Coffee Blog)</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 26 Oct 2017 06:50:12 +0000</lastBuildDate>
-    <atom:link href="/clog/tags/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://frioux.github.io/clog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Aa</title>
       <link>https://frioux.github.io/clog/tags/aa/</link>
       <pubDate>Thu, 26 Oct 2017 06:50:12 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/aa/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -23,9 +24,8 @@
       <link>https://frioux.github.io/clog/tags/aceh-mandheling/</link>
       <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/aceh-mandheling/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -33,9 +33,8 @@
       <link>https://frioux.github.io/clog/tags/alpina/</link>
       <pubDate>Wed, 31 Jan 2018 16:37:42 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/alpina/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -43,9 +42,8 @@
       <link>https://frioux.github.io/clog/tags/baaroo/</link>
       <pubDate>Wed, 23 May 2018 06:37:19 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/baaroo/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -53,9 +51,8 @@
       <link>https://frioux.github.io/clog/tags/bambito/</link>
       <pubDate>Sat, 04 Nov 2017 13:58:59 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/bambito/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -63,9 +60,8 @@
       <link>https://frioux.github.io/clog/tags/blend/</link>
       <pubDate>Sun, 18 Feb 2018 11:40:29 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/blend/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -73,9 +69,8 @@
       <link>https://frioux.github.io/clog/tags/bourbon/</link>
       <pubDate>Fri, 10 Nov 2017 07:02:42 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/bourbon/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -83,9 +78,8 @@
       <link>https://frioux.github.io/clog/tags/brazil/</link>
       <pubDate>Fri, 10 Nov 2017 07:02:42 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/brazil/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -93,9 +87,8 @@
       <link>https://frioux.github.io/clog/tags/chinameca/</link>
       <pubDate>Wed, 31 Jan 2018 16:37:42 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/chinameca/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -103,9 +96,8 @@
       <link>https://frioux.github.io/clog/tags/colombia/</link>
       <pubDate>Mon, 05 Feb 2018 17:32:05 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/colombia/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -113,9 +105,8 @@
       <link>https://frioux.github.io/clog/tags/costa-rica/</link>
       <pubDate>Thu, 17 May 2018 06:49:29 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/costa-rica/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -123,9 +114,8 @@
       <link>https://frioux.github.io/clog/tags/dry-process/</link>
       <pubDate>Sat, 28 Apr 2018 16:09:21 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/dry-process/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -133,9 +123,8 @@
       <link>https://frioux.github.io/clog/tags/dumerso/</link>
       <pubDate>Sat, 28 Apr 2018 16:09:21 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/dumerso/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -143,9 +132,8 @@
       <link>https://frioux.github.io/clog/tags/el-salvador/</link>
       <pubDate>Wed, 31 Jan 2018 16:37:42 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/el-salvador/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -153,9 +141,8 @@
       <link>https://frioux.github.io/clog/tags/ethiopia/</link>
       <pubDate>Mon, 28 May 2018 06:56:05 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/ethiopia/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -163,9 +150,8 @@
       <link>https://frioux.github.io/clog/tags/gera-jimma/</link>
       <pubDate>Mon, 28 May 2018 06:56:05 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/gera-jimma/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -173,9 +159,8 @@
       <link>https://frioux.github.io/clog/tags/grade-1/</link>
       <pubDate>Sat, 28 Apr 2018 16:09:21 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/grade-1/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -183,9 +168,8 @@
       <link>https://frioux.github.io/clog/tags/guatemala/</link>
       <pubDate>Sat, 05 May 2018 13:48:06 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/guatemala/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -193,9 +177,8 @@
       <link>https://frioux.github.io/clog/tags/helsar/</link>
       <pubDate>Thu, 17 May 2018 06:49:29 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/helsar/</guid>
       <description></description>
-      
     </item>
     
     <item>
@@ -203,9 +186,179 @@
       <link>https://frioux.github.io/clog/tags/illubabor/</link>
       <pubDate>Wed, 23 May 2018 06:37:19 +0000</pubDate>
       
-      <guid isPermaLink="false"></guid>
+      <guid>https://frioux.github.io/clog/tags/illubabor/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Kenya</title>
+      <link>https://frioux.github.io/clog/tags/kenya/</link>
+      <pubDate>Thu, 26 Oct 2017 06:50:12 +0000</pubDate>
       
+      <guid>https://frioux.github.io/clog/tags/kenya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Muranga</title>
+      <link>https://frioux.github.io/clog/tags/muranga/</link>
+      <pubDate>Thu, 26 Oct 2017 06:50:12 +0000</pubDate>
+      
+      <guid>https://frioux.github.io/clog/tags/muranga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nano Challa Coop</title>
+      <link>https://frioux.github.io/clog/tags/nano-challa-coop/</link>
+      <pubDate>Mon, 28 May 2018 06:56:05 +0000</pubDate>
+      
+      <guid>https://frioux.github.io/clog/tags/nano-challa-coop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nariño</title>
+      <link>https://frioux.github.io/clog/tags/nari%C3%B1o/</link>
+      <pubDate>Mon, 05 Feb 2018 17:32:05 +0000</pubDate>
+      
+      <guid>https://frioux.github.io/clog/tags/nari%C3%B1o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pacamara</title>
+      <link>https://frioux.github.io/clog/tags/pacamara/</link>
+      <pubDate>Wed, 31 Jan 2018 16:37:42 +0000</pubDate>
+      
+      <guid>https://frioux.github.io/clog/tags/pacamara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panama</title>
+      <link>https://frioux.github.io/clog/tags/panama/</link>
+      <pubDate>Sat, 04 Nov 2017 13:58:59 +0000</pubDate>
+      
+      <guid>https://frioux.github.io/clog/tags/panama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Riakiberu</title>
+      <link>https://frioux.github.io/clog/tags/riakiberu/</link>
+      <pubDate>Thu, 26 Oct 2017 06:50:12 +0000</pubDate>
+      
+      <guid>https://frioux.github.io/clog/tags/riakiberu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rio Juanambú</title>
+      <link>https://frioux.github.io/clog/tags/rio-juanamb%C3%BA/</link>
+      <pubDate>Mon, 05 Feb 2018 17:32:05 +0000</pubDate>
+      
+      <guid>https://frioux.github.io/clog/tags/rio-juanamb%C3%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>San Miguel</title>
+      <link>https://frioux.github.io/clog/tags/san-miguel/</link>
+      <pubDate>Wed, 31 Jan 2018 16:37:42 +0000</pubDate>
+      
+      <guid>https://frioux.github.io/clog/tags/san-miguel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>San Pedro Necta</title>
+      <link>https://frioux.github.io/clog/tags/san-pedro-necta/</link>
+      <pubDate>Sat, 05 May 2018 13:48:06 +0000</pubDate>
+      
+      <guid>https://frioux.github.io/clog/tags/san-pedro-necta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Santa Julia</title>
+      <link>https://frioux.github.io/clog/tags/santa-julia/</link>
+      <pubDate>Sat, 21 Oct 2017 07:17:41 +0000</pubDate>
+      
+      <guid>https://frioux.github.io/clog/tags/santa-julia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Santa Lucia</title>
+      <link>https://frioux.github.io/clog/tags/santa-lucia/</link>
+      <pubDate>Thu, 17 May 2018 06:49:29 +0000</pubDate>
+      
+      <guid>https://frioux.github.io/clog/tags/santa-lucia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sidama Nansebo</title>
+      <link>https://frioux.github.io/clog/tags/sidama-nansebo/</link>
+      <pubDate>Mon, 12 Feb 2018 15:04:54 +0000</pubDate>
+      
+      <guid>https://frioux.github.io/clog/tags/sidama-nansebo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sumatra</title>
+      <link>https://frioux.github.io/clog/tags/sumatra/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://frioux.github.io/clog/tags/sumatra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tecapa Chinameca</title>
+      <link>https://frioux.github.io/clog/tags/tecapa-chinameca/</link>
+      <pubDate>Wed, 31 Jan 2018 16:37:42 +0000</pubDate>
+      
+      <guid>https://frioux.github.io/clog/tags/tecapa-chinameca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Volcan Baru</title>
+      <link>https://frioux.github.io/clog/tags/volcan-baru/</link>
+      <pubDate>Sat, 04 Nov 2017 13:58:59 +0000</pubDate>
+      
+      <guid>https://frioux.github.io/clog/tags/volcan-baru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenago</title>
+      <link>https://frioux.github.io/clog/tags/wenago/</link>
+      <pubDate>Sun, 06 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://frioux.github.io/clog/tags/wenago/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yellow Bourbon</title>
+      <link>https://frioux.github.io/clog/tags/yellow-bourbon/</link>
+      <pubDate>Fri, 10 Nov 2017 07:02:42 +0000</pubDate>
+      
+      <guid>https://frioux.github.io/clog/tags/yellow-bourbon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yirga Cheffe</title>
+      <link>https://frioux.github.io/clog/tags/yirga-cheffe/</link>
+      <pubDate>Sat, 28 Apr 2018 16:09:21 +0000</pubDate>
+      
+      <guid>https://frioux.github.io/clog/tags/yirga-cheffe/</guid>
+      <description></description>
     </item>
     
   </channel>

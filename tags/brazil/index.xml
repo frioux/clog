@@ -6,14 +6,16 @@
     <description>Recent content in Brazil on fREW Schmidt&#39;s Clog (Coffee Blog)</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 10 Nov 2017 07:02:42 +0000</lastBuildDate>
-    <atom:link href="/clog/tags/brazil/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://frioux.github.io/clog/tags/brazil/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Brazil Santa Lucia Yellow Bourbon</title>
       <link>https://frioux.github.io/clog/posts/2017-11-10/</link>
       <pubDate>Fri, 10 Nov 2017 07:02:42 +0000</pubDate>
       
-      <guid isPermaLink="false">2a45b927-9b73-40aa-8a34-667f60b62579</guid>
+      <guid>https://frioux.github.io/clog/posts/2017-11-10/</guid>
       <description>Sweet Maria&amp;rsquo;s  City+ to Vienna: Big body, low acidity, sweet to savory notes, brown sugar, almond paste, walnut, peanut cookie, cocoa powder.
  Acidity: Minimal
 Sweetness: None
@@ -21,15 +23,6 @@ Mouthfeel: Slightly astringent
 Flavor: I taste the peanut cookie somewhat and definitely the cocoa powder.
 Finish: This coffee has a finish I wish I had a name for; it reminds me of cheap coffee grounds.
 Balance: I wouldn&amp;rsquo;t buy this coffee again and I think that savory is likely something to warn me off of a coffee in general.</description>
-      
-      <category>brazil</category>
-      
-      <category>santa-lucia</category>
-      
-      <category>yellow-bourbon</category>
-      
-      <category>bourbon</category>
-      
     </item>
     
     <item>
@@ -37,22 +30,13 @@ Balance: I wouldn&amp;rsquo;t buy this coffee again and I think that savory is l
       <link>https://frioux.github.io/clog/posts/2017-10-31/</link>
       <pubDate>Tue, 31 Oct 2017 16:48:22 +0000</pubDate>
       
-      <guid isPermaLink="false">29335163-6b46-4756-aafc-965e9de177ce</guid>
+      <guid>https://frioux.github.io/clog/posts/2017-10-31/</guid>
       <description>Sweet Maria&amp;rsquo;s  City+ to Vienna: Big body, low acidity, sweet to savory notes, brown sugar, almond paste, walnut, peanut cookie, cocoa powder.
  Acidity: I don&amp;rsquo;t get an acidity out of this.
 Sweetness: Just a touch of sweetness.
 Mouthfeel: Slightly astringent.
 Flavor: I can taste the savory notes here. I&amp;rsquo;m not sure I&amp;rsquo;m a big fan but it is definitely distinctive.
 Finish: Finish seems stronger or more flavorful than the initial taste, which is unusual and something that I typically dislike.</description>
-      
-      <category>brazil</category>
-      
-      <category>santa-lucia</category>
-      
-      <category>yellow-bourbon</category>
-      
-      <category>bourbon</category>
-      
     </item>
     
     <item>
@@ -60,20 +44,11 @@ Finish: Finish seems stronger or more flavorful than the initial taste, which is
       <link>https://frioux.github.io/clog/posts/2017-10-15/</link>
       <pubDate>Sun, 15 Oct 2017 08:22:35 +0000</pubDate>
       
-      <guid isPermaLink="false">ABD98CAA-B1BC-11E7-AE30-04F46288AF9B</guid>
+      <guid>https://frioux.github.io/clog/posts/2017-10-15/</guid>
       <description>Sweet Maria&amp;rsquo;s  City+ to Vienna: Big body, low acidity, sweet to savory notes, brown sugar, almond paste, walnut, peanut cookie, cocoa powder.
  Acidity: Much brighter than the coffee I was drinking last week, which was brewed AeroPress. I&amp;rsquo;m surprised because this is cold brew.
 Sweetness: Very, very faint sweetness that I sometimes suspect is a mirage caused by the low temperature of the coffee.
 Mouthfeel: Slightly tannic. Not as oily as I&amp;rsquo;d hope for.</description>
-      
-      <category>brazil</category>
-      
-      <category>santa-lucia</category>
-      
-      <category>yellow-bourbon</category>
-      
-      <category>bourbon</category>
-      
     </item>
     
     <item>
@@ -81,7 +56,7 @@ Mouthfeel: Slightly tannic. Not as oily as I&amp;rsquo;d hope for.</description>
       <link>https://frioux.github.io/clog/posts/2017-09-28/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid isPermaLink="false">8A877E08-A457-11E7-84E7-AA52F2AA86E1</guid>
+      <guid>https://frioux.github.io/clog/posts/2017-09-28/</guid>
       <description>Sweet Maria&amp;rsquo;s  City+ to Vienna: Big body, low acidity, sweet to savory notes, brown sugar, almond paste, walnut, peanut cookie, cocoa powder.
  Acidity: Little to none.
 Sweetness: Little to none
@@ -89,15 +64,6 @@ Mouthfeel: Very thin.
 Flavor: I do think I taste some of the nutty flavors alluded to in the SM review.
 Finish: Having trouble grokking the finish right now.
 Overall I think this isn&amp;rsquo;t great. Maybe it will grow on me through the week but it&amp;rsquo;s not what I&amp;rsquo;m usually looking for.</description>
-      
-      <category>brazil</category>
-      
-      <category>santa-lucia</category>
-      
-      <category>yellow-bourbon</category>
-      
-      <category>bourbon</category>
-      
     </item>
     
   </channel>
