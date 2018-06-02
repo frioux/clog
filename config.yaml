@@ -4,8 +4,7 @@ author:
   twitter: frioux
 indexes:
   tag: 'tags'
-baseurl: 'https://frioux.github.io/clog'
-canonifyurls: false
+baseURL: 'https://frioux.github.io/clog'
 paginate: 50
 q:
   post-facets:
