@@ -20,5 +20,5 @@ Duration: <strong>{{ .Params.total_roast }}</strong><br />
    {{ $loss  := div $num $start }}
    {{ $pct   := mul 100 $loss }}
 
-   {{ .Params.start_weight}}lb → {{ .Params.end_weight}}lb;{{ math.Round $pct }}% Weight Loss
+   {{ .Params.start_weight}}lb → {{ .Params.end_weight}}lb; {{ math.Round $pct }}% Weight Loss
 {{ end}}
