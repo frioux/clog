@@ -9,7 +9,7 @@ clean:
 	rm public/* -rf
 
 build: clean
-	bin/check-guids && bin/check-math && hugo
+	bin/check-guids && hugo
 
 commit: build
 	cd public && git add -Af . && git ci -m 'derp' || true

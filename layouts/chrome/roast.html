@@ -13,4 +13,12 @@ Duration: <strong>{{ .Params.total_roast }}</strong><br />
 {{ else }}                      ???
 {{ end }}
 <br />{{ end }}
-{{ if isset .Params "start_weight" }}{{ .Params.start_weight}}lb → {{ .Params.end_weight}}lb; {{ .Params.weight_loss }}% Weight Loss{{ end}}
+{{ if isset .Params "start_weight" }}
+   {{ $start := mul 100 .Params.start_weight }}
+   {{ $end   := mul 100 .Params.end_weight }}
+   {{ $num   := sub $start $end }}
+   {{ $loss  := div $num $start }}
+   {{ $pct   := mul 100 $loss }}
+
+   {{ .Params.start_weight}}lb → {{ .Params.end_weight}}lb;{{ math.Round $pct }}% Weight Loss
+{{ end}}
