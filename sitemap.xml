@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://frioux.github.io/clog/posts/2018-06-20/</loc>
+    <lastmod>2018-06-20T07:15:33+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/posts/2018-06-14/</loc>
     <lastmod>2018-06-14T15:43:38+00:00</lastmod>
   </url>
@@ -326,6 +331,12 @@
   </url>
   
   <url>
+    <loc>https://frioux.github.io/clog/tags/cajamarca/</loc>
+    <lastmod>2018-06-20T07:15:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/tags/chinameca/</loc>
     <lastmod>2018-01-31T16:37:42+00:00</lastmod>
     <priority>0</priority>
@@ -404,6 +415,12 @@
   </url>
   
   <url>
+    <loc>https://frioux.github.io/clog/tags/la-palma/</loc>
+    <lastmod>2018-06-20T07:15:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/tags/muranga/</loc>
     <lastmod>2017-10-26T06:50:12+00:00</lastmod>
     <priority>0</priority>
@@ -434,8 +451,14 @@
   </url>
   
   <url>
+    <loc>https://frioux.github.io/clog/tags/peru/</loc>
+    <lastmod>2018-06-20T07:15:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/posts/</loc>
-    <lastmod>2018-06-14T15:43:38+00:00</lastmod>
+    <lastmod>2018-06-20T07:15:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -448,6 +471,12 @@
   <url>
     <loc>https://frioux.github.io/clog/tags/rio-juanamb%C3%BA/</loc>
     <lastmod>2018-02-05T17:32:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://frioux.github.io/clog/tags/san-ignacio/</loc>
+    <lastmod>2018-06-20T07:15:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -531,7 +560,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/</loc>
-    <lastmod>2018-06-14T15:43:38+00:00</lastmod>
+    <lastmod>2018-06-20T07:15:33+00:00</lastmod>
     <priority>0</priority>
   </url>
   
