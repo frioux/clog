@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://frioux.github.io/clog/posts/2018-06-26/</loc>
+    <lastmod>2018-06-25T21:52:59+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/posts/2018-06-20/</loc>
     <lastmod>2018-06-20T07:15:33+00:00</lastmod>
   </url>
@@ -368,7 +373,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/tags/el-salvador/</loc>
-    <lastmod>2018-01-31T16:37:42+00:00</lastmod>
+    <lastmod>2018-06-25T21:52:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -421,6 +426,12 @@
   </url>
   
   <url>
+    <loc>https://frioux.github.io/clog/tags/matalapa/</loc>
+    <lastmod>2018-06-25T21:52:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/tags/muranga/</loc>
     <lastmod>2017-10-26T06:50:12+00:00</lastmod>
     <priority>0</priority>
@@ -458,7 +469,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/posts/</loc>
-    <lastmod>2018-06-20T07:15:33+00:00</lastmod>
+    <lastmod>2018-06-25T21:52:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -517,6 +528,12 @@
   </url>
   
   <url>
+    <loc>https://frioux.github.io/clog/tags/tablon-calagual/</loc>
+    <lastmod>2018-06-25T21:52:59+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/tags/</loc>
     <lastmod>2017-10-26T06:50:12+00:00</lastmod>
     <priority>0</priority>
@@ -560,7 +577,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/</loc>
-    <lastmod>2018-06-20T07:15:33+00:00</lastmod>
+    <lastmod>2018-06-25T21:52:59+00:00</lastmod>
     <priority>0</priority>
   </url>
   
