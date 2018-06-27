@@ -62,7 +62,7 @@ endfunction
 augroup hugo
    autocmd!
 
-   au FileType markdown execute 'setlocal omnifunc=CompleteTags | iabbrev cupp ## Cupping<return><return>Aroma Comments:<return><return>Acidity:<return><return>Sweetness:<return><return>Mouthfeel:<return><return>Flavor:<return><return>Finish:<return><return>Balance:'
+   au FileType markdown execute 'setlocal omnifunc=CompleteTags | iabbrev cupp ## Cupping<return><return>Aroma Comments:<return><return>Acidity:<return><return>Sweetness:<return><return>Mouthfeel:<return><return>Flavor:<return><return>Finish:<return><return>Balance:<return><return>SET RATING<return>'
    au BufReadPost quickfix setlocal nowrap
 
    au BufReadPost quickfix
