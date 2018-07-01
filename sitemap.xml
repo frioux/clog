@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://frioux.github.io/clog/posts/2018-07-01/</loc>
+    <lastmod>2018-07-01T06:34:34+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/posts/2018-06-26/</loc>
     <lastmod>2018-06-25T21:52:59+00:00</lastmod>
   </url>
@@ -426,6 +431,12 @@
   </url>
   
   <url>
+    <loc>https://frioux.github.io/clog/tags/lintong/</loc>
+    <lastmod>2018-07-01T06:34:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/tags/matalapa/</loc>
     <lastmod>2018-06-25T21:52:59+00:00</lastmod>
     <priority>0</priority>
@@ -462,6 +473,12 @@
   </url>
   
   <url>
+    <loc>https://frioux.github.io/clog/tags/peaberry/</loc>
+    <lastmod>2018-07-01T06:34:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/tags/peru/</loc>
     <lastmod>2018-06-20T07:15:33+00:00</lastmod>
     <priority>0</priority>
@@ -469,7 +486,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/posts/</loc>
-    <lastmod>2018-06-25T21:52:59+00:00</lastmod>
+    <lastmod>2018-07-01T06:34:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -523,7 +540,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/tags/sumatra/</loc>
-    <lastmod>2017-08-06T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-01T06:34:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -577,7 +594,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/</loc>
-    <lastmod>2018-06-25T21:52:59+00:00</lastmod>
+    <lastmod>2018-07-01T06:34:34+00:00</lastmod>
     <priority>0</priority>
   </url>
   
