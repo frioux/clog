@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://frioux.github.io/clog/posts/2018-07-14/</loc>
+    <lastmod>2018-07-14T06:48:12+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/posts/2018-07-07/</loc>
     <lastmod>2018-07-07T07:12:24+00:00</lastmod>
   </url>
@@ -389,7 +394,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/tags/ethiopia/</loc>
-    <lastmod>2018-06-14T15:43:38+00:00</lastmod>
+    <lastmod>2018-07-14T06:48:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -438,6 +443,12 @@
   <url>
     <loc>https://frioux.github.io/clog/tags/la-palma/</loc>
     <lastmod>2018-06-20T07:15:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://frioux.github.io/clog/tags/limmu-kossa/</loc>
+    <lastmod>2018-07-14T06:48:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -497,7 +508,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/posts/</loc>
-    <lastmod>2018-07-07T07:12:24+00:00</lastmod>
+    <lastmod>2018-07-14T06:48:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -605,7 +616,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/</loc>
-    <lastmod>2018-07-07T07:12:24+00:00</lastmod>
+    <lastmod>2018-07-14T06:48:12+00:00</lastmod>
     <priority>0</priority>
   </url>
   
