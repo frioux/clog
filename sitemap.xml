@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://frioux.github.io/clog/posts/2018-08-24/</loc>
+    <lastmod>2018-08-24T07:32:42+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/posts/2018-08-18/</loc>
     <lastmod>2018-08-18T11:16:50+00:00</lastmod>
   </url>
@@ -424,7 +429,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/tags/ethiopia/</loc>
-    <lastmod>2018-08-07T13:08:32+00:00</lastmod>
+    <lastmod>2018-08-24T07:32:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -449,6 +454,18 @@
   <url>
     <loc>https://frioux.github.io/clog/tags/guatemala/</loc>
     <lastmod>2018-06-02T11:32:47+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://frioux.github.io/clog/tags/guji/</loc>
+    <lastmod>2018-08-24T07:32:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://frioux.github.io/clog/tags/hambela/</loc>
+    <lastmod>2018-08-24T07:32:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -544,7 +561,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/posts/</loc>
-    <lastmod>2018-08-18T11:16:50+00:00</lastmod>
+    <lastmod>2018-08-24T07:32:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -633,6 +650,12 @@
   </url>
   
   <url>
+    <loc>https://frioux.github.io/clog/tags/wet-process/</loc>
+    <lastmod>2018-08-24T07:32:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/tags/wonago-town/</loc>
     <lastmod>2018-08-07T13:08:32+00:00</lastmod>
     <priority>0</priority>
@@ -652,7 +675,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/</loc>
-    <lastmod>2018-08-18T11:16:50+00:00</lastmod>
+    <lastmod>2018-08-24T07:32:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
