@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://frioux.github.io/clog/posts/2018-10-16/</loc>
+    <lastmod>2018-10-16T07:35:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://frioux.github.io/clog/posts/2018-10-10/</loc>
+    <lastmod>2018-10-09T22:05:19+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/posts/2018-09-23/</loc>
     <lastmod>2018-09-23T13:47:15+00:00</lastmod>
   </url>
@@ -400,7 +410,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/tags/blend/</loc>
-    <lastmod>2018-07-07T07:12:24+00:00</lastmod>
+    <lastmod>2018-10-16T07:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -460,19 +470,19 @@
   
   <url>
     <loc>https://frioux.github.io/clog/tags/ethiopia/</loc>
-    <lastmod>2018-09-15T11:04:09+00:00</lastmod>
+    <lastmod>2018-10-09T22:05:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://frioux.github.io/clog/tags/gera-jimma/</loc>
-    <lastmod>2018-06-08T06:35:48+00:00</lastmod>
+    <lastmod>2018-10-09T22:05:19+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://frioux.github.io/clog/tags/gesha/</loc>
-    <lastmod>2018-09-03T18:48:50+00:00</lastmod>
+    <lastmod>2018-10-16T07:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -598,7 +608,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/posts/</loc>
-    <lastmod>2018-09-23T13:47:15+00:00</lastmod>
+    <lastmod>2018-10-16T07:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -729,8 +739,14 @@
   </url>
   
   <url>
+    <loc>https://frioux.github.io/clog/tags/yukiro/</loc>
+    <lastmod>2018-10-09T22:05:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/</loc>
-    <lastmod>2018-09-23T13:47:15+00:00</lastmod>
+    <lastmod>2018-10-16T07:35:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
