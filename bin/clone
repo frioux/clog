@@ -1,0 +1,60 @@
+#!/usr/bin/perl
+
+use 5.22.0;
+use warnings;
+
+use experimental 'postderef';
+
+my $from_file = shift;
+my $to_file = shift;
+
+use YAML::Syck 'Load', 'Dump';
+
+open my $fh, '<', $from_file
+   or die "Couldn't open $from_file: $!";
+
+my $cnt = 0;
+my $yaml = "";
+while (<$fh>) {
+  $cnt ++ if $_ eq "---\n";
+
+  last if $cnt > 1;
+  $yaml .= $_;
+}
+
+my $markdown = do { local $/; <$fh> } || "";
+
+$markdown =~ s/## Roast Notes.*$//s;
+$markdown .= "\n## Roast Notes\n\n";
+
+close $fh
+  or die "could not close $from_file: $!";
+
+my $data;
+local $@;
+my $success = eval {
+  $data = Load($yaml);
+  1;
+};
+
+die "error processing $from_file: $@\n"
+  unless $success;
+
+chomp($data->{guid} = `uuidgen`);
+chomp($data->{date} = `date +%FT%T`);
+$data->{total_roast} =
+   $data->{first_crack} =
+   $data->{end_weight}  =
+   $data->{start_weight} = '';
+
+if ($to_file) {
+   open my $fh, '>', $to_file or
+     die "Couldn't open $to_file: $!\n";
+
+   print $fh Dump($data) . "---\n$markdown";
+
+   close $fh or
+     die "Couldn't close $to_file: $!\n";
+} else {
+   print Dump($data) . "---\n$markdown";
+}

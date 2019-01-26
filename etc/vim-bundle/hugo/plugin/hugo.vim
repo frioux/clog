@@ -53,6 +53,7 @@ function! CompleteTags(findstart, base)
 endfun
 
 command! Roast :exec 'Epost ' . strftime("%F")
+command! Clone :exec 'call system("bin/clone ' . expand("%") . ' content/posts/' . strftime("%F") . '.md") | e content/posts/' . strftime("%F") . '.md'
 
 function! ExpandTemplate()
    %s/\~\~CURDATE\~\~/\=strftime("%FT%T")
