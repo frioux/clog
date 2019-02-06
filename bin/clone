@@ -44,8 +44,7 @@ chomp($data->{guid} = `uuidgen`);
 chomp($data->{date} = `date +%FT%T`);
 $data->{total_roast} =
    $data->{first_crack} =
-   $data->{end_weight}  =
-   $data->{start_weight} = '';
+   $data->{end_weight}  = '';
 
 if ($to_file) {
    open my $fh, '>', $to_file or
