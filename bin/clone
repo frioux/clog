@@ -16,7 +16,7 @@ open my $fh, '<', $from_file
 my $cnt = 0;
 my $yaml = "";
 while (<$fh>) {
-  $cnt ++ if $_ eq "---\n";
+  $cnt ++ if $_ =~ m/^---\s*$/;
 
   last if $cnt > 1;
   $yaml .= $_;
