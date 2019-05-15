@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://frioux.github.io/clog/posts/2019-05-15/</loc>
+    <lastmod>2019-05-15T12:08:40+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/posts/2019-05-08/</loc>
     <lastmod>2019-05-08T07:43:54+00:00</lastmod>
   </url>
@@ -630,7 +635,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/tags/ethiopia/</loc>
-    <lastmod>2019-05-08T07:43:54+00:00</lastmod>
+    <lastmod>2019-05-15T12:08:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -660,7 +665,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/tags/guji/</loc>
-    <lastmod>2019-05-08T07:43:54+00:00</lastmod>
+    <lastmod>2019-05-15T12:08:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -768,7 +773,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/posts/</loc>
-    <lastmod>2019-05-08T07:43:54+00:00</lastmod>
+    <lastmod>2019-05-15T12:08:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -857,6 +862,12 @@
   </url>
   
   <url>
+    <loc>https://frioux.github.io/clog/tags/uraga-woreda/</loc>
+    <lastmod>2019-05-15T12:08:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/tags/volcan-baru/</loc>
     <lastmod>2017-11-04T13:58:59+00:00</lastmod>
     <priority>0</priority>
@@ -906,7 +917,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/</loc>
-    <lastmod>2019-05-08T07:43:54+00:00</lastmod>
+    <lastmod>2019-05-15T12:08:40+00:00</lastmod>
     <priority>0</priority>
   </url>
   
