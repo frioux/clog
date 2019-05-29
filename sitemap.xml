@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://frioux.github.io/clog/posts/2019-05-29/</loc>
+    <lastmod>2019-05-29T07:26:42+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/posts/2019-05-22/</loc>
     <lastmod>2019-05-22T07:24:07+00:00</lastmod>
   </url>
@@ -640,7 +645,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/tags/ethiopia/</loc>
-    <lastmod>2019-05-15T12:08:40+00:00</lastmod>
+    <lastmod>2019-05-29T07:26:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -741,6 +746,12 @@
   </url>
   
   <url>
+    <loc>https://frioux.github.io/clog/tags/nansebo/</loc>
+    <lastmod>2019-05-29T07:26:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/tags/nari%C3%B1o/</loc>
     <lastmod>2018-02-05T17:32:05+00:00</lastmod>
     <priority>0</priority>
@@ -778,7 +789,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/posts/</loc>
-    <lastmod>2019-05-22T07:24:07+00:00</lastmod>
+    <lastmod>2019-05-29T07:26:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -831,8 +842,14 @@
   </url>
   
   <url>
+    <loc>https://frioux.github.io/clog/tags/sidama/</loc>
+    <lastmod>2019-05-29T07:26:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://frioux.github.io/clog/tags/sidama-nansebo/</loc>
-    <lastmod>2018-06-02T11:32:47+00:00</lastmod>
+    <lastmod>2019-05-29T07:26:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -922,7 +939,7 @@
   
   <url>
     <loc>https://frioux.github.io/clog/</loc>
-    <lastmod>2019-05-22T07:24:07+00:00</lastmod>
+    <lastmod>2019-05-29T07:26:42+00:00</lastmod>
     <priority>0</priority>
   </url>
   
