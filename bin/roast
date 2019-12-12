@@ -1,0 +1,21 @@
+#!/bin/sh
+
+cat <<ROAST
+---
+title: $(jq <data/2019-08-31-order.js 'select(.Title | test("(?i)'"$1"'")) | .Title')
+date: $(date +%FT%T)
+tags: 
+guid: $(uuidgen)
+total_roast:
+first_crack:
+start_weight: 1.2
+end_weight: 0
+roast_level: C+
+---
+
+## Sweet Maria's
+
+> $(jq -r <data/2019-08-31-order.js 'select(.Title | test("(?i)'"$1"'")) | .CuppingNotes')
+
+## Roast Notes
+ROAST
